@@ -4,7 +4,9 @@ Face recognition is an important application of Image processing owing to it's u
 The project consist of three major files you need for this project to work -
 
 1)DataSet creator-->this file will take 30 samples of the faces as specified in the progream. 
+
 2)Trainer-->this file will train your dataset.
+
 3)Detection-->this will detect your or of any other person who's details are stored in your database.
 
 In this project there are two folders that I hve uploaded for your ease,
